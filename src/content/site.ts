@@ -22,7 +22,6 @@ export const site = {
   phone: "+92 300 2513167", // set to "" to hide
   social: {
     github: "https://github.com/numan-iftikhar",
-    // TODO: confirm this is your exact LinkedIn URL
     linkedin: "https://www.linkedin.com/in/numan-iftikhar",
     twitter: "",
     website: "",
