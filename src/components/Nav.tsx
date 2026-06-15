@@ -33,8 +33,9 @@ export function Nav() {
     >
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
         <a href="#top" className="font-mono text-sm font-semibold tracking-tight">
-          {site.name.split(" ")[0].toLowerCase()}
-          <span className="text-accent">.dev</span>
+          {/* {site.name.split(" ")[0].toLowerCase()} */}
+          Numan Iftikhar
+          {/* <span className="text-accent">.dev</span> */}
         </a>
 
         <div className="hidden items-center gap-6 md:flex">
